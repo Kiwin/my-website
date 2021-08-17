@@ -1,0 +1,17 @@
+@import url(purple-theme.css);
+
+.tx-1 {
+  color: var(--text-primary);
+}
+
+.tx-2 {
+  color: var(--text-secondary);
+}
+
+.bg-1 {
+  background-color: var(--bg-primary);
+}
+
+.bg-2 {
+  background-color: var(--bg-secondary);
+}

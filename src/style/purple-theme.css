@@ -1,0 +1,19 @@
+:root {
+  --blush: #ea698bff;
+  --fandango-pink: #d55d92ff;
+  --mulberry-crayola: #c05299ff;
+  --byzantine: #ac46a1ff;
+  --purpureus: #973aa8ff;
+  --violet-ryb: #822fafff;
+  --purple: #6d23b6ff;
+  --purple-2: #6411adff;
+  --blue-violet-color-wheel: #571089ff;
+  --blue-violet-color-wheel-2: #47126bff;
+}
+
+:root {
+  --text-primary: var(--fandango-pink);
+  --bg-primary: var(--purple);
+  --text-secondary: var(--byzantine);
+  --bg-secondary: var(--blue-violet-color-wheel);
+}
