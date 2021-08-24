@@ -1,5 +1,7 @@
 import React from "react"
 import "./App.css"
+import BigNavItem from "./components/BigNavItem"
+import LinkBar from "./components/LinkBar"
 
 function App() {
   return (
@@ -13,14 +15,15 @@ function App() {
         </div>
         <nav className="navbar">
           <ul className="nav">
-            <li className="nav-item">
-              <p>Home</p>
-            </li>
-            <li className="nav-item">
-              <p>About</p>
-            </li>
+            <BigNavItem text="Projects" url="#" />
+            <BigNavItem text="Gallery" url="#" />
+            <BigNavItem text="Blog" url="#" />
           </ul>
+          <LinkBar />
         </nav>
+        <footer className="footer">
+          <div>kiwin andersen</div>
+        </footer>
       </div>
     </div>
   )
