@@ -6,7 +6,7 @@ function LinkBar() {
         url="https://github.com/Kiwin"
         bgColor="#ffffff"
         //BUG: Bind scaling to viewport size.
-        style={{ transform: "scale(200%)", fontSize: "1em" }}
+        style={{ transform: "scale(140%)", fontSize: "1em" }}
       />
     </div>
   )

@@ -21,10 +21,12 @@ function App() {
           </ul>
           <LinkBar />
         </nav>
-        <footer className="footer">
-          <div>kiwin andersen</div>
-        </footer>
       </div>
+      <footer className="footer">
+        <div>
+          <p>Kiwin Andersen; 24-08-2021</p>
+        </div>
+      </footer>
     </div>
   )
 }

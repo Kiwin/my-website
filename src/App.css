@@ -79,5 +79,6 @@ body {
 }
 
 .footer {
-  font-size: 0.5em;
+  bottom: 0;
+  font-size: 0.3em;
 }
