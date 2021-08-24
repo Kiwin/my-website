@@ -9,11 +9,13 @@
   --purple-2: #6411adff;
   --blue-violet-color-wheel: #571089ff;
   --blue-violet-color-wheel-2: #47126bff;
+
+  --custom-1: rgb(142, 207, 202);
 }
 
 :root {
-  --text-primary: var(--fandango-pink);
-  --bg-primary: var(--purple);
-  --text-secondary: var(--byzantine);
-  --bg-secondary: var(--blue-violet-color-wheel);
+  --c1: white;
+  --c2: white;
+  --bg1: var(--purple);
+  --bg2: var(--blue-violet-color-wheel);
 }
