@@ -9,8 +9,8 @@ function App() {
       <div className="header">
         <div>
           <h1>
-            Welcome
-            <span className="slogan slogan-scale">Slogan!</span>
+            Kiwin Andersen
+            <span className="slogan slogan-scale">Welcome!</span>
           </h1>
         </div>
         <nav className="navbar">
@@ -23,9 +23,6 @@ function App() {
         </nav>
       </div>
       <footer className="footer">
-        <div>
-          <p>Kiwin Andersen; 24-08-2021</p>
-        </div>
       </footer>
     </div>
   )
